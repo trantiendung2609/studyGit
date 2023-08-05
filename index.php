@@ -1,4 +1,5 @@
 <?php
 
 phpinfo();
-echo 'test';
+echo '50%';
+echo '100%';
